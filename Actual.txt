@@ -1,1 +1,2 @@
 1
+https://github.com/lovethistleclaw/supastalk/releases/latest/download/supastalk.plugin
